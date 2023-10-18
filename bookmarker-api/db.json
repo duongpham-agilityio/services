@@ -1,5 +1,136 @@
 {
-  "products": [],
+  "products": [
+    {
+        "name": "Tasty Wooden Chair",
+        "description": "Ab repellat ullam autem. Esse facere facere debitis dicta quidem nihil. Saepe suscipit ex.",
+        "imageURL": "https://i.ibb.co/RD5rnBm/book.webp",
+        "price": 373,
+        "quantity": 11,
+        "isLiked": false,
+        "category": "electrics",
+        "id": 1
+    },
+    {
+        "name": "Tasty Wooden Chair 1",
+        "description": "Ab repellat ullam autem. Esse facere facere debitis dicta quidem nihil. Saepe suscipit ex.",
+        "imageURL": "https://i.ibb.co/RD5rnBm/book.webp",
+        "price": 373,
+        "quantity": 11,
+        "isLiked": false,
+        "category": "electrics",
+        "id": 2
+    },
+    {
+        "name": "Tasty Wooden Chair 2",
+        "description": "Ab repellat ullam autem. Esse facere facere debitis dicta quidem nihil. Saepe suscipit ex.",
+        "imageURL": "https://i.ibb.co/RD5rnBm/book.webp",
+        "price": 373,
+        "quantity": 11,
+        "isLiked": false,
+        "category": "electrics",
+        "id": 3
+    },
+    {
+        "name": "Tasty Wooden Chair 3",
+        "description": "Ab repellat ullam autem. Esse facere facere debitis dicta quidem nihil. Saepe suscipit ex.",
+        "imageURL": "https://i.ibb.co/RD5rnBm/book.webp",
+        "price": 373,
+        "quantity": 11,
+        "isLiked": false,
+        "category": "electrics",
+        "id": 4
+    },
+    {
+        "name": "Tasty Wooden Chair 4",
+        "description": "Ab repellat ullam autem. Esse facere facere debitis dicta quidem nihil. Saepe suscipit ex.",
+        "imageURL": "https://i.ibb.co/RD5rnBm/book.webp",
+        "price": 373,
+        "quantity": 11,
+        "isLiked": false,
+        "category": "books",
+        "id": 5
+    },
+    {
+        "name": "Tasty Wooden Chair 5",
+        "description": "Ab repellat ullam autem. Esse facere facere debitis dicta quidem nihil. Saepe suscipit ex.",
+        "imageURL": "https://i.ibb.co/RD5rnBm/book.webp",
+        "price": 373,
+        "quantity": 11,
+        "isLiked": false,
+        "category": "books",
+        "id": 6
+    },
+    {
+        "name": "Tasty Wooden Chair 6",
+        "description": "Ab repellat ullam autem. Esse facere facere debitis dicta quidem nihil. Saepe suscipit ex.",
+        "imageURL": "https://i.ibb.co/RD5rnBm/book.webp",
+        "price": 373,
+        "quantity": 11,
+        "isLiked": false,
+        "category": "books",
+        "id": 7
+    },
+    {
+        "name": "Tasty Wooden Chair 7",
+        "description": "Ab repellat ullam autem. Esse facere facere debitis dicta quidem nihil. Saepe suscipit ex.",
+        "imageURL": "https://i.ibb.co/RD5rnBm/book.webp",
+        "price": 373,
+        "quantity": 11,
+        "isLiked": false,
+        "category": "books",
+        "id": 8
+    },
+    {
+        "name": "Tasty Wooden Chair 8",
+        "description": "Ab repellat ullam autem. Esse facere facere debitis dicta quidem nihil. Saepe suscipit ex.",
+        "imageURL": "https://i.ibb.co/RD5rnBm/book.webp",
+        "price": 373,
+        "quantity": 11,
+        "isLiked": false,
+        "category": "fashion",
+        "id": 9
+    },
+    {
+        "name": "Tasty Wooden Chair 9",
+        "description": "Ab repellat ullam autem. Esse facere facere debitis dicta quidem nihil. Saepe suscipit ex.",
+        "imageURL": "https://i.ibb.co/RD5rnBm/book.webp",
+        "price": 373,
+        "quantity": 11,
+        "isLiked": false,
+        "category": "fashion",
+        "id": 10
+    },
+    {
+        "name": "Tasty Wooden Chair 10",
+        "description": "Ab repellat ullam autem. Esse facere facere debitis dicta quidem nihil. Saepe suscipit ex.",
+        "imageURL": "https://i.ibb.co/RD5rnBm/book.webp",
+        "price": 373,
+        "quantity": 11,
+        "isLiked": false,
+        "category": "fashion",
+        "id": 11
+    },
+    {
+        "name": "Tasty Wooden Chair 11",
+        "description": "Ab repellat ullam autem. Esse facere facere debitis dicta quidem nihil. Saepe suscipit ex.",
+        "imageURL": "https://i.ibb.co/RD5rnBm/book.webp",
+        "price": 373,
+        "quantity": 11,
+        "isLiked": false,
+        "category": "fashion",
+        "id": 12
+    },
+    {
+        "name": "Tasty Wooden Chair 12",
+        "description": "Ab repellat ullam autem. Esse facere facere debitis dicta quidem nihil. Saepe suscipit ex.",
+        "imageURL": "https://i.ibb.co/RD5rnBm/book.webp",
+        "price": 373,
+        "quantity": 11,
+        "isLiked": false,
+        "category": "fashion",
+        "id": 13
+    }
+],
   "books": [
     {
       "name": "HTML/CSS Ebook 1",
