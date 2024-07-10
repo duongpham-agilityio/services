@@ -339,7 +339,14 @@
       "id": "26"
     }
   ],
-  "users": [],
+  "users": [
+    {
+      "id": 1,
+      "email": "duong.pham@asnet.com.vn",
+      "password": "123456",
+      "username": "Duong Pham"
+    }
+  ],
   "carts": [
     {
       "name": "Gorgeous Wooden Cheese",
@@ -371,5 +378,9 @@
       "userId": 1,
       "productId": "4"
     }
-  ]
+  ],
+
+  "a": {
+    "b": 1
+  }
 }
