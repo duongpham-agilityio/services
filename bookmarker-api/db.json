@@ -3500,5 +3500,182 @@
       "image": "https://i.ibb.co/KwRDcc4/3968901-1.png",
       "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home."
     }
+  ],
+  "blogs": [
+    {
+      "id": "1",
+      "author": "FRAGMENT",
+      "title": "9 Emerging Use Cases for Responsible AI",
+      "topicId": "2",
+      "externalLink": "https://techcrunch.com/2024/07/22/digital-ledger-fragment-9m-banks-balance-sheets/",
+      "imageURL": "https://images.ctfassets.net/u0by2ozia4af/6CBTFNYDcaRSLh8yPEC4xQ/227c7ef427d3c93fbd3c3851bc40c724/Fragment_TechCrunch.webp",
+      "createdAt": 1721984085091,
+      "updatedAt": 1721984085091,
+      "body": []
+    },
+    {
+      "id": "2",
+      "author": "FRAGMENT",
+      "topicId": "2",
+      "title": "9 Emerging Use Cases for Responsible AI",
+      "imageURL": "https://lh3.googleusercontent.com/2OQ6xZvyjSYqB8sDhvxeUqJklhvmZCveUbzlvelQR5VMMAxFEdOpU0gcnykfZHwj2dy0xJnZZE1VcZnoXZR6xCfgluTc4UXPuGM_ZdZX=e365-rw-pa-nu-w1280-v1",
+      "createdAt": 1721984085091,
+      "updatedAt": 1721984085091,
+      "body": [
+        {
+          "subtitle": "Why Responsible AI (RAI) is important?",
+          "content": "Gen AI provides a powerful tool for building software; however, companies confront adoption challenges due to concerns about AI safety and responsibility — in surveys, enterprises' main roadblocks are privacy laws (31%), AI governance, and orchestration (31%); and more than 50% of enterprises emphasized the risk of biases and hallucination. Amid increasing AI lawsuits and upcoming regulations, developing and adopting responsible AI could be key to effectively mitigating legal risks and enabling this transformational technology."
+        },
+        {
+          "subtitle": "What are RAI's use cases?",
+          "content": "There are various RAI use cases across the AI stack, and these solutions can be divided into two dimensions: AI engineering workflow and the “value” of responsible AI, and grouped under three jobs-to-be-done (JTBD): 1) Assess and improve AI quality, 2) Make AI secured and privacy-preserving, and 3) Prepare responsible data."
+        },
+        {
+          "subtitle": "What About Multi-Modality Responsible AI?",
+          "content": "Gen AI shifts from LLM to LMM can meaningfully benefit many industries such as medical, pharmaceutical, manufacturing, commerce, robotics, etc. This means that responsible AI needs to be more sophisticated as the level of complexity increases."
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "author": "GRADIENT VENTURES",
+      "topicId": "2",
+      "title": "Update from Gradient Ventures",
+      "imageURL": "https://lh3.googleusercontent.com/S5zjgypzvl3i2cm_Mz6Z2mXh0YM0sC7hKegigZ-pLN6kEvdWEwVvevHEQCHPiOc7gLMwUA7UHiDrE8YNn2-WKZRzR_B37PwANEDORw8n=e365-rw-pa-nu-w1280-v1",
+      "createdAt": 1721984085091,
+      "updatedAt": 1721984085091,
+      "body": [
+        {
+          "subtitle": "Subtitle",
+          "content": "We founded Gradient Ventures in the hopes that Google’s strength in AI would resonate with AI-founders. When we made our first investments into Algorithmia and Lambda Labs, the attention paper had not yet been published. The thesis was to co-create Gradient Ventures with our founders who hoped to build transformational AI companies. I’m inspired by what we have been able to accomplish together. We have over $1B under management in 150+ remarkable seed and series-A companies, such as Streamlit, unitQ, and Labelbox and over 147 others. Seeing the AI ecosystem grow has been an amazing journey and I am immensely proud of what we have built together.Today, I am sharing the news that I will be moving on from Gradient at the end of this year as it has been almost 20 years since I first joined Google. Gradient Ventures is a special place for us and our founders and I look forward to seeing what the future holds."
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "author": "MINE",
+      "topicId": "2",
+      "title": "9 Emerging Use Cases for Responsible AI",
+      "externalLink": "https://techcrunch.com/2023/12/05/mine-digs-up-30m-for-its-no-code-approach-to-vetting-data-privacy/",
+      "imageURL": "https://lh3.googleusercontent.com/tc0v_dsx2njXRl8qoDT-7Df2wOUKdmzdhTLHcTyCv12AMAHHkDiYaXDQEMryCe3FplTA01Tg_lgTPPQy-EhDbU-xR_RidGUQcnjvbfg=e365-rw-pa-nu-w640",
+      "createdAt": 1721984085091,
+      "updatedAt": 1721984085091,
+      "body": []
+    },
+    {
+      "id": "5",
+      "topicId": "2",
+
+      "author": "MINE",
+      "title": "Mine raises $30M in Series B funding for its no-code approach to vetting data privacy",
+      "externalLink": "https://techcrunch.com/2023/12/05/mine-digs-up-30m-for-its-no-code-approach-to-vetting-data-privacy/",
+      "imageURL": "https://lh3.googleusercontent.com/tc0v_dsx2njXRl8qoDT-7Df2wOUKdmzdhTLHcTyCv12AMAHHkDiYaXDQEMryCe3FplTA01Tg_lgTPPQy-EhDbU-xR_RidGUQcnjvbfg=e365-rw-pa-nu-w640",
+      "createdAt": 1721984085091,
+      "updatedAt": 1721984085091,
+      "body": []
+    },
+    {
+      "id": "6",
+      "topicId": "2",
+      "author": "SYRUP",
+      "title": "Syrup raises $17.5M for AI-powered planning, buying, and inventory optimization",
+      "externalLink": "https://www.bloomberg.com/news/articles/2023-12-01/startup-syrup-raises-17-5-million-to-bring-ai-to-holiday-shopping-logistics",
+      "imageURL": "https://lh3.googleusercontent.com/YekWdr0iP0bbgwpFgAeiB3_I5xFD33IFs_NCoYAir9bpDKKQopjsOQBDk8H1lD221MAcK_ZnM-zjxG8wD2bcoqESjwOpcphSMaBfVg=e365-rw-pa-nu-w640",
+      "createdAt": 1721984085091,
+      "updatedAt": 1721984085091,
+      "body": []
+    },
+    {
+      "id": "7",
+      "topicId": "3",
+      "author": "SYRUP",
+      "title": "Syrup raises $17.5M for AI-powered planning, buying, and inventory optimization",
+      "externalLink": "https://www.bloomberg.com/news/articles/2023-12-01/startup-syrup-raises-17-5-million-to-bring-ai-to-holiday-shopping-logistics",
+      "imageURL": "https://lh3.googleusercontent.com/YekWdr0iP0bbgwpFgAeiB3_I5xFD33IFs_NCoYAir9bpDKKQopjsOQBDk8H1lD221MAcK_ZnM-zjxG8wD2bcoqESjwOpcphSMaBfVg=e365-rw-pa-nu-w640",
+      "createdAt": 1721984085091,
+      "updatedAt": 1721984085091,
+      "body": []
+    },
+    {
+      "id": "8",
+      "topicId": "3",
+      "author": "MINE",
+      "title": "Mine raises $30M in Series B funding for its no-code approach to vetting data privacy",
+      "externalLink": "https://techcrunch.com/2023/12/05/mine-digs-up-30m-for-its-no-code-approach-to-vetting-data-privacy/",
+      "imageURL": "https://lh3.googleusercontent.com/tc0v_dsx2njXRl8qoDT-7Df2wOUKdmzdhTLHcTyCv12AMAHHkDiYaXDQEMryCe3FplTA01Tg_lgTPPQy-EhDbU-xR_RidGUQcnjvbfg=e365-rw-pa-nu-w640",
+      "createdAt": 1721984085091,
+      "updatedAt": 1721984085091,
+      "body": []
+    },
+    {
+      "topicId": "3",
+      "id": "9",
+      "author": "MINE",
+      "title": "9 Emerging Use Cases for Responsible AI",
+      "externalLink": "https://techcrunch.com/2023/12/05/mine-digs-up-30m-for-its-no-code-approach-to-vetting-data-privacy/",
+      "imageURL": "https://lh3.googleusercontent.com/tc0v_dsx2njXRl8qoDT-7Df2wOUKdmzdhTLHcTyCv12AMAHHkDiYaXDQEMryCe3FplTA01Tg_lgTPPQy-EhDbU-xR_RidGUQcnjvbfg=e365-rw-pa-nu-w640",
+      "createdAt": 1721984085091,
+      "updatedAt": 1721984085091,
+      "body": []
+    },
+    {
+      "id": "10",
+      "topicId": "3",
+      "author": "GRADIENT VENTURES",
+      "title": "Update from Gradient Ventures",
+      "imageURL": "https://lh3.googleusercontent.com/S5zjgypzvl3i2cm_Mz6Z2mXh0YM0sC7hKegigZ-pLN6kEvdWEwVvevHEQCHPiOc7gLMwUA7UHiDrE8YNn2-WKZRzR_B37PwANEDORw8n=e365-rw-pa-nu-w1280-v1",
+      "createdAt": 1721984085091,
+      "updatedAt": 1721984085091,
+      "body": [
+        {
+          "subtitle": "Subtitle",
+          "content": "We founded Gradient Ventures in the hopes that Google’s strength in AI would resonate with AI-founders. When we made our first investments into Algorithmia and Lambda Labs, the attention paper had not yet been published. The thesis was to co-create Gradient Ventures with our founders who hoped to build transformational AI companies. I’m inspired by what we have been able to accomplish together. We have over $1B under management in 150+ remarkable seed and series-A companies, such as Streamlit, unitQ, and Labelbox and over 147 others. Seeing the AI ecosystem grow has been an amazing journey and I am immensely proud of what we have built together.Today, I am sharing the news that I will be moving on from Gradient at the end of this year as it has been almost 20 years since I first joined Google. Gradient Ventures is a special place for us and our founders and I look forward to seeing what the future holds."
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "topicId": "3",
+      "author": "FRAGMENT",
+      "title": "9 Emerging Use Cases for Responsible AI",
+      "imageURL": "https://lh3.googleusercontent.com/2OQ6xZvyjSYqB8sDhvxeUqJklhvmZCveUbzlvelQR5VMMAxFEdOpU0gcnykfZHwj2dy0xJnZZE1VcZnoXZR6xCfgluTc4UXPuGM_ZdZX=e365-rw-pa-nu-w1280-v1",
+      "createdAt": 1721984085091,
+      "updatedAt": 1721984085091,
+      "body": [
+        {
+          "subtitle": "Why Responsible AI (RAI) is important?",
+          "content": "Gen AI provides a powerful tool for building software; however, companies confront adoption challenges due to concerns about AI safety and responsibility — in surveys, enterprises' main roadblocks are privacy laws (31%), AI governance, and orchestration (31%); and more than 50% of enterprises emphasized the risk of biases and hallucination. Amid increasing AI lawsuits and upcoming regulations, developing and adopting responsible AI could be key to effectively mitigating legal risks and enabling this transformational technology."
+        },
+        {
+          "subtitle": "What are RAI's use cases?",
+          "content": "There are various RAI use cases across the AI stack, and these solutions can be divided into two dimensions: AI engineering workflow and the “value” of responsible AI, and grouped under three jobs-to-be-done (JTBD): 1) Assess and improve AI quality, 2) Make AI secured and privacy-preserving, and 3) Prepare responsible data."
+        },
+        {
+          "subtitle": "What About Multi-Modality Responsible AI?",
+          "content": "Gen AI shifts from LLM to LMM can meaningfully benefit many industries such as medical, pharmaceutical, manufacturing, commerce, robotics, etc. This means that responsible AI needs to be more sophisticated as the level of complexity increases."
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "author": "FRAGMENT",
+      "topicId": "3",
+      "title": "9 Emerging Use Cases for Responsible AI",
+      "externalLink": "https://techcrunch.com/2024/07/22/digital-ledger-fragment-9m-banks-balance-sheets/",
+      "imageURL": "https://images.ctfassets.net/u0by2ozia4af/6CBTFNYDcaRSLh8yPEC4xQ/227c7ef427d3c93fbd3c3851bc40c724/Fragment_TechCrunch.webp",
+      "createdAt": 1721984085091,
+      "updatedAt": 1721984085091,
+      "body": []
+    }
+  ],
+  "topics": [
+    { "label": "All topic", "id": "1" },
+    { "label": "AI / ML", "id": "2" },
+    { "label": "Engineering", "id": "3" },
+    { "label": "Exits", "id": "4" },
+    { "label": "Funding", "id": "5" },
+    { "label": "Marketing", "id": "6" },
+    { "label": "Operations", "id": "7" },
+    { "label": "Talent", "id": "8" }
   ]
 }
