@@ -3677,5 +3677,13 @@
     { "label": "Marketing", "id": "6" },
     { "label": "Operations", "id": "7" },
     { "label": "Talent", "id": "8" }
+  ],
+"users": [
+    {
+      "id": "1",
+      "email": "test@asnet.com.vn",
+      "password": "Abcd@1234",
+      "username": "Canh Vo"
+    }
   ]
 }
