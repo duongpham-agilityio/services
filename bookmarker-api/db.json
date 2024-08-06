@@ -1,10 +1,5 @@
 {
   "cart": [
-    {
-      "cartId": "24234gdfdfg",
-      "userId": "1",
-      "products": []
-    }
   ],
   "products": [{
     "id": "a01",
