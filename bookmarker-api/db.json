@@ -4,6 +4,7 @@
       "id": "a01",
       "name": "Black Simple Lamp",
       "price": 12,
+      "categoryId": 6,
       "image": "https://i.ibb.co/MDpMXMG/jonny-caspari-wsv-CC6-Uy-Kjs-unsplash-1.png",
       "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home."
     },
@@ -11,12 +12,14 @@
       "id": "a02",
       "name": "Minimal Stand",
       "price": 25,
+      "categoryId": 2,
       "image": "https://i.ibb.co/y85nTTn/2681826-1.png",
       "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home."
     },
     {
       "id": "a03",
       "name": "Coffee Chair",
+      "categoryId": 1,
       "price": 20,
       "image": "https://i.ibb.co/m8nVWx2/sarah-dorweiler-fr0-J5-GIVyg-unsplash-1.png",
       "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home."
@@ -24,6 +27,7 @@
     {
       "id": "a04",
       "name": "Simple Desk",
+      "categoryId": 4,
       "price": 50,
       "image": "https://i.ibb.co/KwRDcc4/3968901-1.png",
       "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home."
@@ -32,6 +36,7 @@
       "id": "product4",
       "name": "Black Simple Lamp",
       "price": 12,
+      "categoryId": 5,
       "image": "https://i.ibb.co/MDpMXMG/jonny-caspari-wsv-CC6-Uy-Kjs-unsplash-1.png",
       "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home."
     },
@@ -39,6 +44,7 @@
       "id": "product5",
       "name": "Minimal Stand",
       "price": 25,
+      "categoryId": 3,
       "image": "https://i.ibb.co/y85nTTn/2681826-1.png",
       "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home."
     },
@@ -46,6 +52,7 @@
       "id": "product6",
       "name": "Coffee Chair",
       "price": 20,
+      "categoryId": 4,
       "image": "https://i.ibb.co/m8nVWx2/sarah-dorweiler-fr0-J5-GIVyg-unsplash-1.png",
       "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home."
     },
@@ -53,6 +60,7 @@
       "id": "product7",
       "name": "Simple Desk",
       "price": 50,
+      "categoryId": 1,
       "image": "https://i.ibb.co/KwRDcc4/3968901-1.png",
       "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home."
     },
@@ -60,6 +68,7 @@
       "id": "product8",
       "name": "Black Simple Lamp",
       "price": 12,
+      "categoryId": 3,
       "image": "https://i.ibb.co/MDpMXMG/jonny-caspari-wsv-CC6-Uy-Kjs-unsplash-1.png",
       "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home."
     },
@@ -67,6 +76,7 @@
       "id": "product9",
       "name": "Minimal Stand",
       "price": 25,
+      "categoryId": 2,
       "image": "https://i.ibb.co/y85nTTn/2681826-1.png",
       "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home."
     },
@@ -74,6 +84,7 @@
       "id": "product10",
       "name": "Coffee Chair",
       "price": 20,
+      "categoryId": 6,
       "image": "https://i.ibb.co/m8nVWx2/sarah-dorweiler-fr0-J5-GIVyg-unsplash-1.png",
       "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home."
     },
@@ -81,6 +92,7 @@
       "id": "product11",
       "name": "Simple Desk",
       "price": 50,
+      "categoryId": 3,
       "image": "https://i.ibb.co/KwRDcc4/3968901-1.png",
       "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home."
     },
@@ -88,6 +100,7 @@
       "id": "product12",
       "name": "Black Simple Lamp",
       "price": 12,
+      "categoryId": 5,
       "image": "https://i.ibb.co/MDpMXMG/jonny-caspari-wsv-CC6-Uy-Kjs-unsplash-1.png",
       "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home."
     },
@@ -95,6 +108,7 @@
       "id": "product13",
       "name": "Minimal Stand",
       "price": 25,
+      "categoryId": 2,
       "image": "https://i.ibb.co/y85nTTn/2681826-1.png",
       "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home."
     },
@@ -102,6 +116,7 @@
       "id": "product14",
       "name": "Coffee Chair",
       "price": 20,
+      "categoryId": 3,
       "image": "https://i.ibb.co/m8nVWx2/sarah-dorweiler-fr0-J5-GIVyg-unsplash-1.png",
       "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home."
     },
@@ -109,6 +124,7 @@
       "id": "product15",
       "name": "Simple Desk",
       "price": 50,
+      "categoryId": 6,
       "image": "https://i.ibb.co/KwRDcc4/3968901-1.png",
       "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home."
     },
@@ -116,6 +132,7 @@
       "id": "product16",
       "name": "Black Simple Lamp",
       "price": 12,
+      "categoryId": 2,
       "image": "https://i.ibb.co/MDpMXMG/jonny-caspari-wsv-CC6-Uy-Kjs-unsplash-1.png",
       "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home."
     },
@@ -123,6 +140,7 @@
       "id": "product17",
       "name": "Minimal Stand",
       "price": 25,
+      "categoryId": 1,
       "image": "https://i.ibb.co/y85nTTn/2681826-1.png",
       "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home."
     },
@@ -130,6 +148,7 @@
       "id": "product18",
       "name": "Coffee Chair",
       "price": 20,
+      "categoryId": 4,
       "image": "https://i.ibb.co/m8nVWx2/sarah-dorweiler-fr0-J5-GIVyg-unsplash-1.png",
       "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home."
     },
@@ -137,6 +156,7 @@
       "id": "product19",
       "name": "Simple Desk",
       "price": 50,
+      "categoryId": 3,
       "image": "https://i.ibb.co/KwRDcc4/3968901-1.png",
       "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home."
     },
@@ -144,6 +164,7 @@
       "id": "product20",
       "name": "Black Simple Lamp",
       "price": 12,
+      "categoryId": 5,
       "image": "https://i.ibb.co/MDpMXMG/jonny-caspari-wsv-CC6-Uy-Kjs-unsplash-1.png",
       "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home."
     },
@@ -151,6 +172,7 @@
       "id": "product21",
       "name": "Minimal Stand",
       "price": 25,
+      "categoryId": 1,
       "image": "https://i.ibb.co/y85nTTn/2681826-1.png",
       "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home."
     },
